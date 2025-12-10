@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+ai/
+.venv/
+venv/
+env/
+
+# Audio & model files
+*.wav
+*.mp3
+*.onnx
+*.ppn
+
+# Piper & Porcupine models
+piper-models/
+llm_model/
+certs/
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
